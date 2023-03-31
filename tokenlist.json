@@ -1,0 +1,48 @@
+{
+  "name": "Compound",
+  "logoURI": "https://raw.githubusercontent.com/broswap/token-list/tokenlogo/logo.png",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2023-03-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x0De51E5B5f6C64fA86f3e0ee303f7CEE930A3fB4",
+      "name": "BroSwap",
+      "symbol": "BRO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/broswap/token-list/tokenlogo/bro.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/weth_28.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://arbiscan.io/token/images/tether_32.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/arbitrumone2_32_new.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
